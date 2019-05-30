@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTaskManager</string>
+    <string name="activity_date">Activity Date</string>
+    <string name="save_a_date">SAVE A DATE</string>
+</resources>
